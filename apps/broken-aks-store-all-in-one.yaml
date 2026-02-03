@@ -175,7 +175,7 @@ data:
   ORDER_QUEUE_USERNAME: dXNlcm5hbWU=
   ORDER_QUEUE_PASSWORD: cGFzc3dvcmQ=
 ---
-apiVersion: apps/v1
+apiVersion: apps/v
 kind: Deployment
 metadata:
   name: order-service
